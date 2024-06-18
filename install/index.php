@@ -4,7 +4,6 @@ defined('B_PROLOG_INCLUDED') and (B_PROLOG_INCLUDED === true) or die();
 
 use Bitrix\Main\EventManager;
 use Bitrix\Main\ModuleManager;
-
 use Practice\Element\Events\EndSentenceEvent;
 
 class practice_element extends \CModule
