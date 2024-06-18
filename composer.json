@@ -9,6 +9,6 @@
     "require": {},
     "type": "bitrix-module",
     "extra": {
-        "installer-name": "practice.elemen"
+        "installer-name": "practice.element"
     }
 }
