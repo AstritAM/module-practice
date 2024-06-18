@@ -6,5 +6,9 @@
             "email": "a.meshkova@webpractik.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "type": "bitrix-module",
+    "extra": {
+        "installer-name": "practice.elemen"
+    }
 }
